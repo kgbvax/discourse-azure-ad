@@ -4,7 +4,7 @@
 # authors: Neil Lalonde
 # url: https://github.com/discourse/discourse-azure-ad
 
-require_dependency 'auth/oauth2_authenticator'
+# require_dependency 'auth/oauth2_authenticator'
 
 gem 'omniauth-azure-oauth2', '0.0.10'
 
